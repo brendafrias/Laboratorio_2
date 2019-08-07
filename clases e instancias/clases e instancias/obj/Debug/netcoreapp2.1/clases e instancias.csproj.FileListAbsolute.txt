@@ -1,0 +1,11 @@
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\obj\Debug\netcoreapp2.1\clases e instancias.csprojAssemblyReference.cache
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\obj\Debug\netcoreapp2.1\clases e instancias.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\obj\Debug\netcoreapp2.1\clases e instancias.AssemblyInfoInputs.cache
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\obj\Debug\netcoreapp2.1\clases e instancias.AssemblyInfo.cs
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\bin\Debug\netcoreapp2.1\clases e instancias.deps.json
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\bin\Debug\netcoreapp2.1\clases e instancias.runtimeconfig.json
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\bin\Debug\netcoreapp2.1\clases e instancias.runtimeconfig.dev.json
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\bin\Debug\netcoreapp2.1\clases e instancias.dll
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\bin\Debug\netcoreapp2.1\clases e instancias.pdb
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\obj\Debug\netcoreapp2.1\clases e instancias.dll
+C:\Users\Brenda\source\repos\clases e instancias\clases e instancias\obj\Debug\netcoreapp2.1\clases e instancias.pdb
