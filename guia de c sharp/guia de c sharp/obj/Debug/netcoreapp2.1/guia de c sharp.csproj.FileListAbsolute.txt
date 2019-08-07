@@ -1,0 +1,11 @@
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\obj\Debug\netcoreapp2.1\guia de c sharp.csprojAssemblyReference.cache
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\obj\Debug\netcoreapp2.1\guia de c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\obj\Debug\netcoreapp2.1\guia de c sharp.AssemblyInfoInputs.cache
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\obj\Debug\netcoreapp2.1\guia de c sharp.AssemblyInfo.cs
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\bin\Debug\netcoreapp2.1\guia de c sharp.deps.json
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\bin\Debug\netcoreapp2.1\guia de c sharp.runtimeconfig.json
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\bin\Debug\netcoreapp2.1\guia de c sharp.runtimeconfig.dev.json
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\bin\Debug\netcoreapp2.1\guia de c sharp.dll
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\bin\Debug\netcoreapp2.1\guia de c sharp.pdb
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\obj\Debug\netcoreapp2.1\guia de c sharp.dll
+C:\Users\Brenda\source\repos\guia de c sharp\guia de c sharp\obj\Debug\netcoreapp2.1\guia de c sharp.pdb
