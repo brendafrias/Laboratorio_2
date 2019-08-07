@@ -1,0 +1,11 @@
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\bin\Debug\netcoreapp2.1\herencia y polimorfismo.deps.json
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\bin\Debug\netcoreapp2.1\herencia y polimorfismo.runtimeconfig.json
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\bin\Debug\netcoreapp2.1\herencia y polimorfismo.runtimeconfig.dev.json
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\bin\Debug\netcoreapp2.1\herencia y polimorfismo.dll
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\bin\Debug\netcoreapp2.1\herencia y polimorfismo.pdb
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\obj\Debug\netcoreapp2.1\herencia y polimorfismo.csprojAssemblyReference.cache
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\obj\Debug\netcoreapp2.1\herencia y polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\obj\Debug\netcoreapp2.1\herencia y polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\obj\Debug\netcoreapp2.1\herencia y polimorfismo.AssemblyInfo.cs
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\obj\Debug\netcoreapp2.1\herencia y polimorfismo.dll
+C:\Users\Brenda\source\repos\herencia y polimorfismo\herencia y polimorfismo\obj\Debug\netcoreapp2.1\herencia y polimorfismo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\bin\Debug\netcoreapp2.1\Metodo constructor y destructor.deps.json
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\bin\Debug\netcoreapp2.1\Metodo constructor y destructor.runtimeconfig.json
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\bin\Debug\netcoreapp2.1\Metodo constructor y destructor.runtimeconfig.dev.json
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\bin\Debug\netcoreapp2.1\Metodo constructor y destructor.dll
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\bin\Debug\netcoreapp2.1\Metodo constructor y destructor.pdb
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\obj\Debug\netcoreapp2.1\Metodo constructor y destructor.csprojAssemblyReference.cache
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\obj\Debug\netcoreapp2.1\Metodo constructor y destructor.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\obj\Debug\netcoreapp2.1\Metodo constructor y destructor.AssemblyInfoInputs.cache
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\obj\Debug\netcoreapp2.1\Metodo constructor y destructor.AssemblyInfo.cs
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\obj\Debug\netcoreapp2.1\Metodo constructor y destructor.dll
+C:\Users\Brenda\source\repos\Metodo constructor y destructor\Metodo constructor y destructor\obj\Debug\netcoreapp2.1\Metodo constructor y destructor.pdb
