@@ -1,0 +1,7 @@
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+D:\VisualStudio\Frias.Brenda\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
